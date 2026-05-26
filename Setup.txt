@@ -1,0 +1,5 @@
+*Tạo thư mục profile mới tách biệt với profile gốc:
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=8888 --user-data-dir="E:\ChromeProfile"
+
+*Thư viện icon cho shortcut:
+imageres.dll
